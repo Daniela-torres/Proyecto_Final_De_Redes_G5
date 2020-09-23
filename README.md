@@ -1,6 +1,5 @@
-PROYECTO NOTAS ESTUDIANTES
-Redes De Computadores,
-Repositorio del proyecto final_G5
+PROYECTO NOTAS ESTUDIANTES,
+Redes De Computadores
 
 INTEGRANTES:
 
