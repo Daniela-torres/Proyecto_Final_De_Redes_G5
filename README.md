@@ -1,4 +1,4 @@
-#PROYECTO NOTAS ESTUDIANTES
+PROYECTO NOTAS ESTUDIANTES
 Redes De Computadores,
 Repositorio del proyecto final_G5
 
